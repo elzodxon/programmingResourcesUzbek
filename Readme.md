@@ -34,6 +34,7 @@
 ## Mavzulashtirilgan darslar
 
 - [HTML va CSS](https://www.youtube.com/watch?v=xcGtfYUfDLo&list=PLHNaMQIyrDHOZhHnc2UdQEOHrb1xM7HaF) <br/>
+- [Web sayt yaratish](https://www.youtube.com/watch?v=2vixnF2_iPs&list=PLHNaMQIyrDHM8esvCO8s3ZbY-WVM4-KXT) <br/>
 **Muallif: Saidbek Arislonov**
 - 
 
