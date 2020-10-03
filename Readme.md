@@ -3,6 +3,7 @@
 ## Web saytlar
 
 - [Colearning.uz](https://colearning.uz/)
+- [Havola.uz](https://havola.uz)
 - [Tutorials.uz](https://tutorials.uz) -  Oʻzbek tilidagi dasturlash boʻyicha bepul video va matnli darslar.
 - [180 kun](code.180kun.com) - Siz dasturchi bo'lmoqchimisiz?
 - [Jarvis.uz](https://jarvis.uz)
@@ -17,6 +18,12 @@
 - [Programmer Uz](https://www.youtube.com/channel/UCwyh6lL8iwZHYO4bF63001A)
 - [TutorialsUz official](https://www.youtube.com/channel/UCqMDdl7OhJcdOG84C_57-ag)
 - [Colearning Academy](https://www.youtube.com/channel/UCzI4pAWiFDT-Cq0GvEidAdg)
+- [Kamron Fozilov](https://www.youtube.com/channel/UCTBc6TDZhL3AXlDKiV2hPoA)
+- [Texnoman Tv](https://www.youtube.com/channel/UCfrLSyrxv16cW3-fgbU3iFQ)
+- [Khan Academy Uzbek](https://www.youtube.com/channel/UC0S2wQBD9R6wqh2WGIClAdQ)
+- [Muhammadxon Najimxonov](https://www.youtube.com/channel/UC80v56_px8LjAg_nTfVgyRw)
+- [Alisher Makhmudov](https://www.youtube.com/channel/UC8st6HmY7EpgR7BaQnMvutQ)
+- [Mukxtarov Dev](https://www.youtube.com/channel/UCUIZnkM1l7dtymiVy2JHdaw)
 
 
 ## Telegram kanallar
