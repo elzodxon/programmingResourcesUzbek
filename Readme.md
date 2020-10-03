@@ -33,7 +33,8 @@
 
 ## Mavzulashtirilgan darslar
 
--
+- [HTML va CSS](https://www.youtube.com/watch?v=xcGtfYUfDLo&list=PLHNaMQIyrDHOZhHnc2UdQEOHrb1xM7HaF) <br/>
+**Muallif: Saidbek Arislonov**
 - 
 
 
