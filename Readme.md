@@ -1,21 +1,21 @@
 **Dasturlashni o'rganish uchun O'zbek tilidagi bepul resurslar to'plami!**
 
-#Web saytlar
+## Web saytlar
 
 -
 -
 
-#Youtube kanallar
+## Youtube kanallar
 
 -
 -
 
-#Telegram kanallar
+## Telegram kanallar
 
 -
 -
 
-#Mavzulashtirilgan darslar
+## Mavzulashtirilgan darslar
 
 -
 - 
