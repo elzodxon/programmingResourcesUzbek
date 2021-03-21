@@ -29,7 +29,7 @@
 
 ## Telegram kanallar
 
--
+-[Ulug'bek Samigjonov](https://t.me/ulugbeksamigjonov)
 -
 
 ## Mavzulashtirilgan darslar
