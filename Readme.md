@@ -26,6 +26,7 @@
 - [Mukxtarov Dev](https://www.youtube.com/channel/UCUIZnkM1l7dtymiVy2JHdaw)
 - [Alitech](https://www.youtube.com/playlist?list=PLd1cTxGen2d6yrVTGb0FKku8Z_ufr3sie)
 - [Ulug'bek Samigjonov](https://youtube.com/@UlugbekSamigjonov)
+- [Bexruz Xolmuminov](https://youtube.com/@BexruzXolmuminov)
 
 
 ## Telegram kanallar
