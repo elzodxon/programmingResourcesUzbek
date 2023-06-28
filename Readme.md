@@ -42,6 +42,8 @@
 **Muallif: Saidbek Arislonov**
 - [Javascript asoslari](https://www.youtube.com/playlist?list=PLpDyZ4xZcDg8fRiY6xgsQcDiMjNYJhNjE) <br/>
 **Muallif: Ulugbek Samigjonov**
+- [Angular Darslari](https://www.youtube.com/watch?v=VK-oFlaQOKY&list=PLx6KiwtsRjcofF--LoNITvYSDpaLAv-dK) <br/>
+**Muallif: Samar Badriddinov**
 
 
 ## Telegram guruhlar
