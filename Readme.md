@@ -30,6 +30,7 @@
 - [Akhror web](https://www.youtube.com/@akhrorweb)
 - [Mukhriddin web](https://www.youtube.com/@MUKHRIDDINKHODIEV)
 - [Saud Abdulwahed Cyber](https://www.youtube.com/@SaudAbdulwahed)
+- [Sariq dev](https://www.youtube.com/@Sariqdev)
 
 
 ## Telegram kanallar
