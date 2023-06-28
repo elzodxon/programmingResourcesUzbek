@@ -29,6 +29,7 @@
 - [Bexruz Xolmuminov](https://youtube.com/@BexruzXolmuminov)
 - [Akhror web](https://www.youtube.com/@akhrorweb)
 - [Mukhriddin web](https://www.youtube.com/@MUKHRIDDINKHODIEV)
+- [Saud Abdulwahed Cyber](https://www.youtube.com/@SaudAbdulwahed)
 
 
 ## Telegram kanallar
