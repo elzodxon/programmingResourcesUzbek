@@ -53,11 +53,11 @@
   - [PHP frameworklari](./web/backend/php/php_frameworks.md)
   - Java
   - Node.js
-### Mobile
-  - Android
+- Mobile
+  - [Android](./mobil/android.md)
   - IOS
-  - Flutter
-  - React Native
+  - [Flutter](./mobil/flutter.md)
+  - [React Native](./mobil/reactnative.md)
 
 ## Telegram guruhlar
 
