@@ -40,7 +40,8 @@
 - [HTML va CSS](https://www.youtube.com/watch?v=xcGtfYUfDLo&list=PLHNaMQIyrDHOZhHnc2UdQEOHrb1xM7HaF) <br/>
 - [Web sayt yaratish](https://www.youtube.com/watch?v=2vixnF2_iPs&list=PLHNaMQIyrDHM8esvCO8s3ZbY-WVM4-KXT) <br/>
 **Muallif: Saidbek Arislonov**
-- 
+- [Javascript asoslari](https://www.youtube.com/playlist?list=PLpDyZ4xZcDg8fRiY6xgsQcDiMjNYJhNjE) <br/>
+**Muallif: Ulugbek Samigjonov**
 
 
 ## Telegram guruhlar
