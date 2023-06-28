@@ -27,12 +27,16 @@
 - [Alitech](https://www.youtube.com/playlist?list=PLd1cTxGen2d6yrVTGb0FKku8Z_ufr3sie)
 - [Ulug'bek Samigjonov](https://youtube.com/@UlugbekSamigjonov)
 - [Bexruz Xolmuminov](https://youtube.com/@BexruzXolmuminov)
+- [Akhror web] (https://www.youtube.com/@akhrorweb)
+- [Mukhriddin web] (https://www.youtube.com/@MUKHRIDDINKHODIEV)
 
 
 ## Telegram kanallar
 
 -[Ulug'bek Samigjonov](https://t.me/ulugbeksamigjonov)
--
+-[Mukhriddin Khodiev] (https://t.me/mukhriddinweb)
+-[Akhror web](https://t.me/akhror_web)
+
 
 ## Mavzulashtirilgan darslar
 
