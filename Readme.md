@@ -11,6 +11,7 @@
 ## Youtube kanallar
 
 - [Saidbek Arislonov](https://www.youtube.com/channel/UChEMatfOEAQuny-TIJidM8w)
+- [Samar Badriddinov](https://www.youtube.com/c/samarbadriddinov)
 - [Farhod Dadajonov](https://www.youtube.com/user/Farkhod1982)
 - [Botir Ziyatov](https://www.youtube.com/channel/UCITeBYoT2MxV_GDdYK8lSCA)
 - [Muhammadjavohir Suratov](https://www.youtube.com/channel/UCVkIqOM_hAlOPnpzWoijFJw)
