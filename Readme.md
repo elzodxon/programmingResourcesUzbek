@@ -11,6 +11,7 @@
 ## Youtube kanallar
 
 - [Saidbek Arislonov](https://www.youtube.com/channel/UChEMatfOEAQuny-TIJidM8w)
+- [Samar Badriddinov](https://www.youtube.com/c/samarbadriddinov)
 - [Farhod Dadajonov](https://www.youtube.com/user/Farkhod1982)
 - [Botir Ziyatov](https://www.youtube.com/channel/UCITeBYoT2MxV_GDdYK8lSCA)
 - [Muhammadjavohir Suratov](https://www.youtube.com/channel/UCVkIqOM_hAlOPnpzWoijFJw)
@@ -43,7 +44,12 @@
 - [HTML va CSS](https://www.youtube.com/watch?v=xcGtfYUfDLo&list=PLHNaMQIyrDHOZhHnc2UdQEOHrb1xM7HaF) <br/>
 - [Web sayt yaratish](https://www.youtube.com/watch?v=2vixnF2_iPs&list=PLHNaMQIyrDHM8esvCO8s3ZbY-WVM4-KXT) <br/>
 **Muallif: Saidbek Arislonov**
-- 
+- [Javascript asoslari](https://www.youtube.com/playlist?list=PLpDyZ4xZcDg8fRiY6xgsQcDiMjNYJhNjE) <br/>
+**Muallif: Ulugbek Samigjonov**
+- [Angular Darslari](https://www.youtube.com/watch?v=VK-oFlaQOKY&list=PLx6KiwtsRjcofF--LoNITvYSDpaLAv-dK) <br/>
+**Muallif: Samar Badriddinov**
+- [React.js Darslari](https://www.youtube.com/watch?v=i24GQAhdvoE&list=PLNS3PujVHR-awWJYJ74hFbgt8cHeTCC_b) <br/>
+**Muallif: Akhror Web**
 
 
 ## Telegram guruhlar
