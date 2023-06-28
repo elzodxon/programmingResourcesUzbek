@@ -25,12 +25,16 @@
 - [Alisher Makhmudov](https://www.youtube.com/channel/UC8st6HmY7EpgR7BaQnMvutQ)
 - [Mukxtarov Dev](https://www.youtube.com/channel/UCUIZnkM1l7dtymiVy2JHdaw)
 - [Alitech](https://www.youtube.com/playlist?list=PLd1cTxGen2d6yrVTGb0FKku8Z_ufr3sie)
+- [Akhror web] (https://www.youtube.com/@akhrorweb)
+- [Mukhriddin web] (https://www.youtube.com/@MUKHRIDDINKHODIEV)
 
 
 ## Telegram kanallar
 
 -[Ulug'bek Samigjonov](https://t.me/ulugbeksamigjonov)
--
+-[Mukhriddin Khodiev] (https://t.me/mukhriddinweb)
+-[Akhror web](https://t.me/akhror_web)
+
 
 ## Mavzulashtirilgan darslar
 
