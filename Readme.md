@@ -25,18 +25,28 @@
 - [Muhammadxon Najimxonov](https://www.youtube.com/channel/UC80v56_px8LjAg_nTfVgyRw)
 - [Alisher Makhmudov](https://www.youtube.com/channel/UC8st6HmY7EpgR7BaQnMvutQ)
 - [Mukxtarov Dev](https://www.youtube.com/channel/UCUIZnkM1l7dtymiVy2JHdaw)
-- [Alitech](https://www.youtube.com/playlist?list=PLd1cTxGen2d6yrVTGb0FKku8Z_ufr3sie)
+- [Alitech](https://www.youtube.com/@Alitechacademy)
 - [Ulug'bek Samigjonov](https://youtube.com/@UlugbekSamigjonov)
 - [Bexruz Xolmuminov](https://youtube.com/@BexruzXolmuminov)
 - [Akhror web](https://www.youtube.com/@akhrorweb)
 - [Mukhriddin web](https://www.youtube.com/@MUKHRIDDINKHODIEV)
+- [Saud Abdulwahed Cyber](https://www.youtube.com/@SaudAbdulwahed)
+- [Sariq dev](https://www.youtube.com/@Sariqdev)
 
 
 ## Telegram kanallar
 
--[Ulug'bek Samigjonov](https://t.me/ulugbeksamigjonov)
--[Mukhriddin Khodiev](https://t.me/mukhriddinweb)
--[Akhror web](https://t.me/akhror_web)
+
+- [Alitech](https://t.me/alitechuz)
+- [Ulug'bek Samigjonov](https://t.me/ulugbeksamigjonov)
+- [Mukhriddin Khodiev](https://t.me/mukhriddinweb)
+- [Akhror web](https://t.me/akhror_web)
+- [Botir Ziyatov](https://t.me/botirziyatov)
+- [Kadirov Dev](https://t.me/kadirovDev)
+- [Saud Abdulwahed](https://t.me/saudabdulwahed)
+- [Sariq Dev](https://t.me/sariqdev)
+- [Samar Badriddinov](https://t.me/samarbadriddinov)
+- [Saidbek Arislonov](https://t.me/saidbekarislonov)
 
 
 ## Mavzulashtirilgan darslar
