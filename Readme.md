@@ -40,11 +40,22 @@
 
 ## Mavzulashtirilgan darslar
 
-- [HTML va CSS](https://www.youtube.com/watch?v=xcGtfYUfDLo&list=PLHNaMQIyrDHOZhHnc2UdQEOHrb1xM7HaF) <br/>
-- [Web sayt yaratish](https://www.youtube.com/watch?v=2vixnF2_iPs&list=PLHNaMQIyrDHM8esvCO8s3ZbY-WVM4-KXT) <br/>
-**Muallif: Saidbek Arislonov**
-- 
-
+### Web
+- Frontend
+  - [HTML](./web/frontend/html.md)
+  - [CSS](./web/frontend/css.md)
+  - [JavaScript](./web/frontend/javascript.md)
+  - [JavaScript frameworklari](./web/frontend/frameworks/Readme.md)
+- Backend
+  - Python
+  - PHP
+  - Java
+  - Node.js
+- Mobile
+  - Android
+  - IOS
+  - Flutter
+  - React Native
 
 ## Telegram guruhlar
 
