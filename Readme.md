@@ -44,6 +44,8 @@
 **Muallif: Ulugbek Samigjonov**
 - [Angular Darslari](https://www.youtube.com/watch?v=VK-oFlaQOKY&list=PLx6KiwtsRjcofF--LoNITvYSDpaLAv-dK) <br/>
 **Muallif: Samar Badriddinov**
+- [React.js Darslari](https://www.youtube.com/watch?v=i24GQAhdvoE&list=PLNS3PujVHR-awWJYJ74hFbgt8cHeTCC_b) <br/>
+**Muallif: Akhror Web**
 
 
 ## Telegram guruhlar
