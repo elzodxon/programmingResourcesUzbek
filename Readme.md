@@ -12,6 +12,7 @@
 
 - [Saidbek Arislonov](https://www.youtube.com/channel/UChEMatfOEAQuny-TIJidM8w)
 - [Farhod Dadajonov](https://www.youtube.com/user/Farkhod1982)
+- [Samar Badriddinov](https://www.youtube.com/@SamarBadriddinov)
 - [Botir Ziyatov](https://www.youtube.com/channel/UCITeBYoT2MxV_GDdYK8lSCA)
 - [Muhammadjavohir Suratov](https://www.youtube.com/channel/UCVkIqOM_hAlOPnpzWoijFJw)
 - [Kadirov Dev](https://www.youtube.com/channel/UCcjcQHyiSPtGMhpiCc4mGfQ)
