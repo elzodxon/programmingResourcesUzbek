@@ -48,7 +48,7 @@
   - [JavaScript frameworklari](./web/frontend/frameworks/Readme.md)
 - Backend
   - [Python](./web/backend/python/python.md)
-  - [Python frameworklari](./web/backend/python_frameworks.md)
+  - [Python frameworklari](./web/backend/python/python_frameworks.md)
   - [PHP](./web/backend/php/php.md)
   - [PHP frameworklari](./web/backend/php/php_frameworks.md)
   - Java
