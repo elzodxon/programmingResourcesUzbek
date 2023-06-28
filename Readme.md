@@ -47,8 +47,13 @@
   - [JavaScript](./web/frontend/javascript.md)
   - [JavaScript frameworklari](./web/frontend/frameworks/Readme.md)
 - Backend
+<<<<<<< HEAD
+  - [Python](./web/backend/python/)
+  - [PHP](./web/backend/php/)
+=======
   - [Python](.web/backend/python)
   - [PHP](.web/backend/php)
+>>>>>>> edc647b7aebf65861ba290396307b0d7ad3efba6
   - Java
   - Node.js
 ### Mobile
