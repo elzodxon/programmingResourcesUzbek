@@ -7,6 +7,7 @@
 - [Tutorials.uz](https://tutorials.uz) -  Oʻzbek tilidagi dasturlash boʻyicha bepul video va matnli darslar.
 - [180 kun](code.180kun.com) - Siz dasturchi bo'lmoqchimisiz?
 - [Jarvis.uz](https://jarvis.uz)
+- [Mohirdev.uz](https://mohirdev.uz/) - Dasturlashga oid kasblarni o’rgatamiz
 
 ## Youtube kanallar
 
@@ -31,6 +32,14 @@
 - [Mukhriddin web](https://www.youtube.com/@MUKHRIDDINKHODIEV)
 - [Saud Abdulwahed Cyber](https://www.youtube.com/@SaudAbdulwahed)
 - [Sariq dev](https://www.youtube.com/@Sariqdev)
+- [Ibrokhim Ismoilov](https://www.youtube.com/@IbrokhimIsmoilov)
+- [Mohirdev](https://www.youtube.com/@Mohirdev)
+- [ilmizla](https://www.youtube.com/@ilmizla)
+- [Zayniddin Mamarasulov](https://www.youtube.com/@ZayniddinMamarasulov)
+- [IT with Akmaljon](https://www.youtube.com/@ITwithAkmaljon)
+- [Nuraliyev O'rgatadi](https://www.youtube.com/@NuraliyevOrgatadi)
+- [YOUNG PROGERS - Dasturlash Darslari!](https://www.youtube.com/@YOUNGPROGERS)
+- [Sardor Og'a](https://www.youtube.com/@SardorOga)
 
 
 ## Telegram kanallar
@@ -46,6 +55,7 @@
 - [Sariq Dev](https://t.me/sariqdev)
 - [Samar Badriddinov](https://t.me/samarbadriddinov)
 - [Saidbek Arislonov](https://t.me/saidbekarislonov)
+- [Ibrokhim Ismoilov](https://t.me/ibrokhim_ismoilov)
 
 
 ## Mavzulashtirilgan darslar
@@ -67,7 +77,7 @@
 ### Mobile
   - Android
   - IOS
-  - Flutter
+  - [Flutter](./mobile/flutter.md)
   - React Native
 
 ## Telegram guruhlar
