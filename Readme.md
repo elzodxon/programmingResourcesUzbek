@@ -12,6 +12,7 @@
 
 - [Saidbek Arislonov](https://www.youtube.com/channel/UChEMatfOEAQuny-TIJidM8w)
 - [Farhod Dadajonov](https://www.youtube.com/user/Farkhod1982)
+- [Samar Badriddinov](https://www.youtube.com/@SamarBadriddinov)
 - [Botir Ziyatov](https://www.youtube.com/channel/UCITeBYoT2MxV_GDdYK8lSCA)
 - [Muhammadjavohir Suratov](https://www.youtube.com/channel/UCVkIqOM_hAlOPnpzWoijFJw)
 - [Kadirov Dev](https://www.youtube.com/channel/UCcjcQHyiSPtGMhpiCc4mGfQ)
@@ -63,12 +64,12 @@
   - [PHP](./web/backend/php/php.md)
   - [PHP frameworklari](./web/backend/php/php_frameworks.md)
   - Java
-  - [Node.js](./web//backend/node.md)
-### Mobile
-  - Android
+  - Node.js
+- Mobile
+  - [Android](./mobil/android.md)
   - IOS
-  - Flutter
-  - React Native
+  - [Flutter](./mobil/flutter.md)
+  - [React Native](./mobil/reactnative.md)
 
 ## Telegram guruhlar
 
