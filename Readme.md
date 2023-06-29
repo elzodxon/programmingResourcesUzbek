@@ -4,9 +4,7 @@
 
 - [Colearning.uz](https://colearning.uz/)
 - [Havola.uz](https://havola.uz)
-- [Tutorials.uz](https://tutorials.uz) -  Oʻzbek tilidagi dasturlash boʻyicha bepul video va matnli darslar.
-- [180 kun](code.180kun.com) - Siz dasturchi bo'lmoqchimisiz?
-- [Jarvis.uz](https://jarvis.uz)
+- [180 kun](https://code.180kun.com) - Siz dasturchi bo'lmoqchimisiz?
 
 ## Youtube kanallar
 
