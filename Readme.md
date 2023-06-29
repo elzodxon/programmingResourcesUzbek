@@ -56,6 +56,7 @@
   - [CSS](./web/frontend/css.md)
   - [JavaScript](./web/frontend/javascript.md)
   - [JavaScript frameworklari](./web/frontend/frameworks/Readme.md)
+  - [TypeScript](./web/frontend/typescript.md)
 - Backend
   - [Python](./web/backend/python/python.md)
   - [Python frameworklari](./web/backend/python/python_frameworks.md)
