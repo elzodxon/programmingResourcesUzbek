@@ -5,6 +5,7 @@
 - [Colearning.uz](https://colearning.uz/)
 - [Havola.uz](https://havola.uz)
 - [180 kun](https://code.180kun.com) - Siz dasturchi bo'lmoqchimisiz?
+- [Azimjon's academy](https://azimjon.com/academy/)
 
 ## Youtube kanallar
 
@@ -68,6 +69,8 @@
   - IOS
   - [Flutter](./mobil/flutter.md)
   - [React Native](./mobil/reactnative.md)
+- Algoritm
+  - [Algoritmlar](./algoritm/algoritm.md)
 
 ## Telegram guruhlar
 
