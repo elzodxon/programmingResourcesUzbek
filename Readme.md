@@ -31,6 +31,7 @@
 - [Mukhriddin web](https://www.youtube.com/@MUKHRIDDINKHODIEV)
 - [Saud Abdulwahed Cyber](https://www.youtube.com/@SaudAbdulwahed)
 - [Sariq dev](https://www.youtube.com/@Sariqdev)
+- [Dev Quiz](https://youtube.com/@DevQuiz)
 
 
 ## Telegram kanallar
