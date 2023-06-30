@@ -7,6 +7,7 @@
 - [180 kun](code.180kun.com) - Siz dasturchi bo'lmoqchimisiz?
 - [Sammi.ac](https:/sammi.ac/) -O'zbek tilidagi dasturlash bo'yicha foydali va bepul video darslar!
 - [180 kun](https://code.180kun.com) - Siz dasturchi bo'lmoqchimisiz?
+- [Azimjon's academy](https://azimjon.com/academy/)
 
 ## Youtube kanallar
 
@@ -70,6 +71,8 @@
   - IOS
   - [Flutter](./mobil/flutter.md)
   - [React Native](./mobil/reactnative.md)
+- Algoritm
+  - [Algoritmlar](./algoritm/algoritm.md)
 
 ## Telegram guruhlar
 
