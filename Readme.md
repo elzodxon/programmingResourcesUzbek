@@ -6,6 +6,7 @@
 - [Havola.uz](https://havola.uz)
 - [180 kun](code.180kun.com) - Siz dasturchi bo'lmoqchimisiz?
 - [Sammi.ac](https:/sammi.ac/) -O'zbek tilidagi dasturlash bo'yicha foydali va bepul video darslar!
+- [180 kun](https://code.180kun.com) - Siz dasturchi bo'lmoqchimisiz?
 
 ## Youtube kanallar
 
@@ -31,6 +32,7 @@
 - [Mukhriddin web](https://www.youtube.com/@MUKHRIDDINKHODIEV)
 - [Saud Abdulwahed Cyber](https://www.youtube.com/@SaudAbdulwahed)
 - [Sariq dev](https://www.youtube.com/@Sariqdev)
+- [Dev Quiz](https://youtube.com/@DevQuiz)
 
 
 ## Telegram kanallar
