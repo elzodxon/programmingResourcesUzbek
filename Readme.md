@@ -4,15 +4,18 @@
 
 - [Colearning.uz](https://colearning.uz/)
 - [Havola.uz](https://havola.uz)
-- [Tutorials.uz](https://tutorials.uz) -  Oʻzbek tilidagi dasturlash boʻyicha bepul video va matnli darslar.
 - [180 kun](code.180kun.com) - Siz dasturchi bo'lmoqchimisiz?
 - [Jarvis.uz](https://jarvis.uz)
 - [Mohirdev.uz](https://mohirdev.uz/) - Dasturlashga oid kasblarni o’rgatamiz
+- [Sammi.ac](https:/sammi.ac/) -O'zbek tilidagi dasturlash bo'yicha foydali va bepul video darslar!
+- [180 kun](https://code.180kun.com) - Siz dasturchi bo'lmoqchimisiz?
+- [Azimjon's academy](https://azimjon.com/academy/)
 
 ## Youtube kanallar
 
 - [Saidbek Arislonov](https://www.youtube.com/channel/UChEMatfOEAQuny-TIJidM8w)
 - [Farhod Dadajonov](https://www.youtube.com/user/Farkhod1982)
+- [Samar Badriddinov](https://www.youtube.com/@SamarBadriddinov)
 - [Botir Ziyatov](https://www.youtube.com/channel/UCITeBYoT2MxV_GDdYK8lSCA)
 - [Muhammadjavohir Suratov](https://www.youtube.com/channel/UCVkIqOM_hAlOPnpzWoijFJw)
 - [Kadirov Dev](https://www.youtube.com/channel/UCcjcQHyiSPtGMhpiCc4mGfQ)
@@ -40,6 +43,7 @@
 - [Nuraliyev O'rgatadi](https://www.youtube.com/@NuraliyevOrgatadi)
 - [YOUNG PROGERS - Dasturlash Darslari!](https://www.youtube.com/@YOUNGPROGERS)
 - [Sardor Og'a](https://www.youtube.com/@SardorOga)
+- [Dev Quiz](https://youtube.com/@DevQuiz)
 
 
 ## Telegram kanallar
@@ -73,12 +77,15 @@
   - [PHP](./web/backend/php/php.md)
   - [PHP frameworklari](./web/backend/php/php_frameworks.md)
   - Java
-  - [Node.js](./web//backend/node.md)
-### Mobile
-  - Android
+  - Node.js
+- Mobile
+  - [Android](./mobil/android.md)
   - IOS
   - [Flutter](./mobile/flutter.md)
   - React Native
+ - [React Native](./mobil/reactnative.md)
+- Algoritm
+  - [Algoritmlar](./algoritm/algoritm.md)
 
 ## Telegram guruhlar
 
