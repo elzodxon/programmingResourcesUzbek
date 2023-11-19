@@ -4,4 +4,4 @@
  **Muallif: Nuraliyev O'rgatadi**
 
  - [Yii2 darslari](https://www.youtube.com/watch?v=p8V0l41qZIo&list=PLRmmpKJlg3SiuOQwY1wRgyLERvtOko9qm)<br/>
- **Muallif: Sardor Og'a
+ **Muallif: Sardor Og'a**

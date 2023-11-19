@@ -5,6 +5,8 @@
 - [Colearning.uz](https://colearning.uz/)
 - [Havola.uz](https://havola.uz)
 - [180 kun](code.180kun.com) - Siz dasturchi bo'lmoqchimisiz?
+- [Jarvis.uz](https://jarvis.uz)
+- [Mohirdev.uz](https://mohirdev.uz/) - Dasturlashga oid kasblarni o’rgatamiz
 - [Sammi.ac](https:/sammi.ac/) -O'zbek tilidagi dasturlash bo'yicha foydali va bepul video darslar!
 - [180 kun](https://code.180kun.com) - Siz dasturchi bo'lmoqchimisiz?
 - [Azimjon's academy](https://azimjon.com/academy/)
@@ -33,6 +35,14 @@
 - [Mukhriddin web](https://www.youtube.com/@MUKHRIDDINKHODIEV)
 - [Saud Abdulwahed Cyber](https://www.youtube.com/@SaudAbdulwahed)
 - [Sariq dev](https://www.youtube.com/@Sariqdev)
+- [Ibrokhim Ismoilov](https://www.youtube.com/@IbrokhimIsmoilov)
+- [Mohirdev](https://www.youtube.com/@Mohirdev)
+- [ilmizla](https://www.youtube.com/@ilmizla)
+- [Zayniddin Mamarasulov](https://www.youtube.com/@ZayniddinMamarasulov)
+- [IT with Akmaljon](https://www.youtube.com/@ITwithAkmaljon)
+- [Nuraliyev O'rgatadi](https://www.youtube.com/@NuraliyevOrgatadi)
+- [YOUNG PROGERS - Dasturlash Darslari!](https://www.youtube.com/@YOUNGPROGERS)
+- [Sardor Og'a](https://www.youtube.com/@SardorOga)
 - [Dev Quiz](https://youtube.com/@DevQuiz)
 
 
@@ -49,6 +59,7 @@
 - [Sariq Dev](https://t.me/sariqdev)
 - [Samar Badriddinov](https://t.me/samarbadriddinov)
 - [Saidbek Arislonov](https://t.me/saidbekarislonov)
+- [Ibrokhim Ismoilov](https://t.me/ibrokhim_ismoilov)
 
 
 ## Mavzulashtirilgan darslar
@@ -59,6 +70,7 @@
   - [CSS](./web/frontend/css.md)
   - [JavaScript](./web/frontend/javascript.md)
   - [JavaScript frameworklari](./web/frontend/frameworks/Readme.md)
+  - [TypeScript](./web/frontend/typescript.md)
 - Backend
   - [Python](./web/backend/python/python.md)
   - [Python frameworklari](./web/backend/python/python_frameworks.md)
@@ -69,8 +81,9 @@
 - Mobile
   - [Android](./mobil/android.md)
   - IOS
-  - [Flutter](./mobil/flutter.md)
-  - [React Native](./mobil/reactnative.md)
+  - [Flutter](./mobile/flutter.md)
+  - React Native
+ - [React Native](./mobil/reactnative.md)
 - Algoritm
   - [Algoritmlar](./algoritm/algoritm.md)
 
