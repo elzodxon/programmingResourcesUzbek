@@ -10,6 +10,7 @@
 - [Sammi.ac](https:/sammi.ac/) -O'zbek tilidagi dasturlash bo'yicha foydali va bepul video darslar!
 - [180 kun](https://code.180kun.com) - Siz dasturchi bo'lmoqchimisiz?
 - [Azimjon's academy](https://azimjon.com/academy/)
+- [Upper.uz](https://upper.uz/) - Dasturlashga oid maqolalar 
 
 ## Youtube kanallar
 
@@ -44,6 +45,7 @@
 - [YOUNG PROGERS - Dasturlash Darslari!](https://www.youtube.com/@YOUNGPROGERS)
 - [Sardor Og'a](https://www.youtube.com/@SardorOga)
 - [Dev Quiz](https://youtube.com/@DevQuiz)
+- [Ravshan Samandarov](https://www.youtube.com/@ravshansbox)
 
 
 ## Telegram kanallar
